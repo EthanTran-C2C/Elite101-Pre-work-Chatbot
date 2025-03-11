@@ -25,3 +25,6 @@ def get_user_info():
             customer_service = True
             return customer_service
             break
+
+def refundCustomer(billing):
+    
